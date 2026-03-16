@@ -16,3 +16,5 @@ def weather(city_name):
     # print("humidity= ",humidity)
     # print(x)
     return x
+
+
