@@ -38,4 +38,3 @@ ttk.Button(win, text= "Okay",width= 20, command= display_text).pack(pady=20)
 win.mainloop()
 
 
-
